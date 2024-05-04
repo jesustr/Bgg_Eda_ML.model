@@ -3,3 +3,5 @@
 -Than i try to create a machine learning project to predict the ratings of board games.
 
 -I'm aware of the mistakes and errors. It was a good attempt for my improvement.
+
+-Data from kaggle. 
